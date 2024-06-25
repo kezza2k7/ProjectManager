@@ -21,9 +21,9 @@ This is a basic Project Manger written in C#, You can Add, Remove, Edit and Open
 2. Add all your current Projects
 3. Use it to manage your Projects
    
-## Installation
-1. Clone the repository: `git clone [https://github.com/kezza2k7/Monopoly](https://github.com/kezza2k7/ProjectManager)`
-2. Navigate to the project directory: `cd ProjectManager"}`
+## Installation (Expert)
+1. Clone the repository: `git clone https://github.com/kezza2k7/ProjectManager`
+2. Navigate to the project directory: `cd ProjectManager`
 3. Open the folder in Ridder and run it / compile it ( or use another program )
 
 ## Contributing
